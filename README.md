@@ -4,8 +4,11 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AbbysTheWorld&bg_color=0d1117&color=ffffff&line=ffffff&point=fffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbbysTheWorld&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
-<div>
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbbysTheWorld&show_icons=true&theme=dark">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbysTheWorld&hide_progress=false&layout=compact&theme=dark">
 </div>
@@ -29,7 +32,7 @@
 
 ## Useless but beautiful
 <div align="center">
-  <br><p align="centre"><b>Visitors Count</b></p>  
+  <br><p align="center"><b>Visitors Count</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{AbbysTheWorld}/count.svg" /></p> 
   <br>
 </div>
